@@ -9,8 +9,8 @@
         <link rel="stylesheet" href="~/css/nav.css" />
 </head>
 <body>
-        <div>
-            <a asp-area="" asp-controller="Home" asp-action="Index">amazonAPI</a>
+        <div class="maintitle">
+            <a asp-area="" asp-controller="Home" asp-action="Index">E-Commerce site</a>
         </div>   
         <nav>
             <ul>
@@ -26,12 +26,12 @@
                 <li><a asp-area="" asp-controller="Home" asp-action="Contact">Stolar</a></li>
             </ul>
         </nav>    
-    <div class="container body-content">
+    <div class="col-12">
         @RenderBody()
-        <footer>
+    </div>
+    <footer class="col-12">
             <p>&copy; 2017 - Tom Nilsson</p>
         </footer>
-    </div>
 
         <script src="~/lib/jquery/dist/jquery.js"></script>
         <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>

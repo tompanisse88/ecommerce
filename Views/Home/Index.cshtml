@@ -69,20 +69,23 @@
 <div>
     @foreach (Items item in ViewBag.items) 
     {
-        <span class="col-4 listview">
-            <div>
-                @{
-                    item.ID = item.ID + ".png";
-                }
-                <img src="~/images/@item.ID">
+        <div class="col-3">
+            <div class="padding">
+                <div>
+                    @{
+                        item.ID = item.ID + ".png";
+                    }
+                    <img class="listimage" src="~/images/1.png">
+                </div>
+                <div>
+                    <div>@item.HEADER</div>
+                    <!--<div>@item.CONTENT</div>-->
+                    <div>@item.PRIZE :-</div>
+                    <div>@item.STANDARDPRIZE :-</div>
+                </div>  
             </div>
-            <div>
-                <div>@item.HEADER</div>
-                <div>@item.CONTENT</div>
-                <div>@item.PRIZE</div>
-                <div>@item.STANDARDPRIZE</div>
-            </div>     
-        </span>
+               
+        </div>
     }
 </div>
 
