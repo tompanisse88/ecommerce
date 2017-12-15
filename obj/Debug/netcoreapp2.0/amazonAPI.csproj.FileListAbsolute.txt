@@ -1,0 +1,10 @@
+/Users/Tom/Documents/Document/Programmering/amazonAPI/bin/Debug/netcoreapp2.0/amazonAPI.deps.json
+/Users/Tom/Documents/Document/Programmering/amazonAPI/bin/Debug/netcoreapp2.0/amazonAPI.runtimeconfig.json
+/Users/Tom/Documents/Document/Programmering/amazonAPI/bin/Debug/netcoreapp2.0/amazonAPI.runtimeconfig.dev.json
+/Users/Tom/Documents/Document/Programmering/amazonAPI/bin/Debug/netcoreapp2.0/amazonAPI.dll
+/Users/Tom/Documents/Document/Programmering/amazonAPI/bin/Debug/netcoreapp2.0/amazonAPI.pdb
+/Users/Tom/Documents/Document/Programmering/amazonAPI/obj/Debug/netcoreapp2.0/amazonAPI.csproj.CoreCompileInputs.cache
+/Users/Tom/Documents/Document/Programmering/amazonAPI/obj/Debug/netcoreapp2.0/amazonAPI.AssemblyInfoInputs.cache
+/Users/Tom/Documents/Document/Programmering/amazonAPI/obj/Debug/netcoreapp2.0/amazonAPI.AssemblyInfo.cs
+/Users/Tom/Documents/Document/Programmering/amazonAPI/obj/Debug/netcoreapp2.0/amazonAPI.dll
+/Users/Tom/Documents/Document/Programmering/amazonAPI/obj/Debug/netcoreapp2.0/amazonAPI.pdb
