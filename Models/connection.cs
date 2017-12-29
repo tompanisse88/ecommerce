@@ -2,7 +2,7 @@ using System;
 //using System.Web.Mvc;
 using MySql.Data.MySqlClient;
 using System.Collections.Generic;
-
+// 
 namespace Connection.Model
 {
     public class ConnectToDB
@@ -40,8 +40,8 @@ namespace Connection.Model
                     item.ID = sqlread.GetValue(0).ToString();
                     item.HEADER = sqlread.GetValue(1).ToString();
                     item.CONTENT = sqlread.GetValue(2).ToString();
-                    item.PRIZE = sqlread.GetValue(3).ToString();
-                    item.STANDARDPRIZE = sqlread.GetValue(4).ToString();
+                    item.PRICE = sqlread.GetValue(3).ToString();
+                    item.STANDARDPRICE = sqlread.GetValue(4).ToString();
                     str.Add(item);
                 }
                 sqlread.Close();

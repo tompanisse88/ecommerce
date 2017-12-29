@@ -42,7 +42,7 @@ namespace amazonAPI
             {
                 routes.MapRoute(
                     name: "default",
-                    template: "{controller=Home}/{action=Index}/{category?}/{subcategory?}");
+                    template: "{controller=Home}/{action=Index}/{cathegory?}/{subcathegory?}");
             });
         }
     }

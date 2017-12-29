@@ -8,3 +8,13 @@
 /Users/Tom/Documents/Document/Programmering/amazonAPI/obj/Debug/netcoreapp2.0/amazonAPI.AssemblyInfo.cs
 /Users/Tom/Documents/Document/Programmering/amazonAPI/obj/Debug/netcoreapp2.0/amazonAPI.dll
 /Users/Tom/Documents/Document/Programmering/amazonAPI/obj/Debug/netcoreapp2.0/amazonAPI.pdb
+C:\csharp\ecommerce\bin\Debug\netcoreapp2.0\amazonAPI.deps.json
+C:\csharp\ecommerce\bin\Debug\netcoreapp2.0\amazonAPI.runtimeconfig.json
+C:\csharp\ecommerce\bin\Debug\netcoreapp2.0\amazonAPI.runtimeconfig.dev.json
+C:\csharp\ecommerce\bin\Debug\netcoreapp2.0\amazonAPI.dll
+C:\csharp\ecommerce\bin\Debug\netcoreapp2.0\amazonAPI.pdb
+C:\csharp\ecommerce\obj\Debug\netcoreapp2.0\amazonAPI.csproj.CoreCompileInputs.cache
+C:\csharp\ecommerce\obj\Debug\netcoreapp2.0\amazonAPI.AssemblyInfoInputs.cache
+C:\csharp\ecommerce\obj\Debug\netcoreapp2.0\amazonAPI.AssemblyInfo.cs
+C:\csharp\ecommerce\obj\Debug\netcoreapp2.0\amazonAPI.dll
+C:\csharp\ecommerce\obj\Debug\netcoreapp2.0\amazonAPI.pdb

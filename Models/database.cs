@@ -7,7 +7,7 @@ namespace Connection.Model
         public string ID;
         public string HEADER;
         public string CONTENT;
-        public string PRIZE;
-        public string STANDARDPRIZE;
+        public string PRICE;
+        public string STANDARDPRICE;
     }
 }

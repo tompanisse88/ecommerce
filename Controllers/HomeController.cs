@@ -18,7 +18,15 @@ namespace amazonAPI.Controllers
         {
             ConnectToDB newConn = new ConnectToDB();
             List<Items> str = new List<Items>(); 
-            str = newConn.GetDataFromDB("SELECT * FROM items");
+            Console.WriteLine("cathegory: " + cathegory);
+            if(cathegory=="Soffor")
+            {
+                str = newConn.GetDataFromDB("SELECT * FROM items WHERE `CATHEGORY`='soffor'");
+            } else {
+                str = newConn.GetDataFromDB("SELECT * FROM items");
+            }
+            
+            ViewBag.soffor = cathegory;
             ViewBag.items = str;
             return View();
         }

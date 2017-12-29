@@ -10,20 +10,21 @@
 </head>
 <body>
         <div class="maintitle">
-            <a asp-area="" asp-controller="Home" asp-action="Index">E-Commerce site</a>
+            <a href="~/">E-Commerce site</a>
         </div>   
         <nav>
             <ul>
                 <li class="dropdown">
-                    <a href="/Soffor" class="dropbtn">Soffor</a>
+                    <a href="~/Home/Index/Soffor" class="dropbtn">Soffor</a>
                     <div class="dropdown-content">
-                        <a href="/Soffor/2sitssoffor">2-Sits Soffor</a>
-                        <a href="/Soffor/3sitssoffor">3-sits Soffor</a>
-                        <a href="/Soffor/usoffor">U-Soffor</a>
+                        <a href="/Soffor/2-sitssoffor">2-Sits Soffor</a>
+                        <a href="/Soffor/3-sitssoffor">3-sits Soffor</a>
+                        <a href="/Soffor/u-soffor">U-Soffor</a>
                     </div>
                 </li>
                 <li><a asp-area="" asp-controller="Home" asp-action="Aktier">Aktier</a></li>
                 <li><a asp-area="" asp-controller="Home" asp-action="Contact">Stolar</a></li>
+                <li><a asp-area="" asp-controller="Account" asp-action="Webadmin">Admin</a></li>
             </ul>
         </nav>    
     <div class="col-12">
